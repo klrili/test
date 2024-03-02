@@ -89,7 +89,7 @@
       margin-right: 0 !important;
     }
   }
-  @media screen and (max-height: 550px) {
+  @media screen and (max-height: 550px) and (not (-webkit-min-device-pixel-ratio: 2)) {
     :root {
       --s18: 25px;
       --s20: 25px;
