@@ -153,7 +153,7 @@
       --s18: 16px;
     }
   }
-  @media screen and (max-width: 1534px) and ((-webkit-min-device-pixel-ratio: 2)) {
+  /* @media screen and (max-width: 1534px) and ((-webkit-min-device-pixel-ratio: 2)) {
     :root {
       --s18: 25px;
       --s20: 20px;
@@ -223,7 +223,7 @@
       height: 10vh !important;
     }
     .main img {
-      height: 40vh !important;
+      height: 80vh !important;
     }
     .main img, .main b {
       margin-right: 5vw !important;
@@ -271,7 +271,7 @@
     :root {
       --s18: 16px;
     }
-  }
+  } */
   body {
     background-color: black !important;
     background-image: url(/source/Layer\ 1.svg);
